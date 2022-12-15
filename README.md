@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @peedudu
 
--I like pizza
+- I like pizza
 
--My favourite kind of pizza is edible
+- My favourite kind of pizza is edible
 
--I REALLY LIKE PIZZA
+- I REALLY LIKE PIZZA
 
 
 <!---
