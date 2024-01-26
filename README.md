@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @peedudu
-
-- I like pizza
-
-- My favourite kind of pizza is edible
-
-- I REALLY LIKE PIZZA
+🫡😢❤️‍🔥❤️‍🔥🥰☺️😌
 
 
 <!---
